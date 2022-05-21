@@ -2,7 +2,6 @@
 -- version 5.1.0
 -- https://www.phpmyadmin.net/
 --
--- Host: 51.195.61.4:8111
 -- Generation Time: 17.12.2021 klo 11:02
 -- Palvelimen versio: 10.3.18-MariaDB-1:10.3.18+maria~bionic
 -- PHP Version: 8.0.13
